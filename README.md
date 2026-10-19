@@ -1,18 +1,14 @@
-# BVI · Marcos 12 — Prueba independiente
+# BVI · Marcos 12 · Prototipo de interfaz v2
 
-Abrir `index.html` para una prueba local o publicar esta carpeta en GitHub Pages.
+Prueba independiente para GitHub Pages. Reemplazar en el repositorio de prueba los archivos existentes con el contenido de este ZIP. **No subir el ZIP sin descomprimir.**
 
-## Alcance
-- Seis estudios con sus páginas editoriales originales, navegables.
-- Alternancia entre recursos visuales y solo texto de estudio.
-- Recursos WebP optimizados y manifiesto JSON.
-- Documentos de redacción y revisión incluidos en `fuentes/`.
+- Navegación fija entre los seis relatos y botones Contexto, Exégesis y Aplicación.
+- Visor 2:3 permanente en modo visual, zoom, arrastre y pantalla completa.
+- Banner cinematográfico horizontal e infografía para Estudio 1.
+- Todos los estudios originales y revisiones preservados en `fuentes/`.
+- No incluye el texto bíblico RVC autorizado; la lectura mostrada es texto de estudio.
+- En celulares, el visor permanece accesible en la parte superior, en formato compacto.
+- Las etiquetas dentro de la infografía generada por IA requieren revisión y migración a HTML para producción.
+- Los recursos de los demás estudios son provisionales.
 
-## Pendiente antes de publicar como versión definitiva
-- Incorporar las correcciones editoriales en cada página, no solo conservarlas como documentos separados.
-- Verificar las portadas y el esquema específico del Estudio 3, y la portada específica del Estudio 4.
-- Revisar las imágenes históricamente y comprobar su visualización en móvil.
-- Integrar el texto bíblico con licencia RVC válida. Este paquete no incluye texto RVC.
-- Integrar con el lector oficial y comprobar todas sus funciones.
-
-**No subir sobre la rama o repositorio del sitio principal sin pruebas.**
+Para publicar: subir el contenido descomprimido al repositorio `bvi-marcos12-prueba`, reemplazar archivos duplicados, confirmar commit y esperar el despliegue de Pages.

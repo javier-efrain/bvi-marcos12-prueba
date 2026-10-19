@@ -2,16 +2,16 @@
   {
     "estudio": 1,
     "tipo": "portada",
-    "archivo": "assets/e01_portada.webp",
+    "archivo": "assets/e01_portada_v2.webp",
     "versiculos": "12:1–12",
-    "nota": "Reconstrucción narrativa aproximada"
+    "nota": "Portada cinematográfica de la parábola; representación artística"
   },
   {
     "estudio": 1,
     "tipo": "educativo",
-    "archivo": "assets/e01_educativo.webp",
+    "archivo": "assets/e01_infografia_v2.webp",
     "versiculos": "12:1–12",
-    "nota": "Reconstrucción educativa de una viña"
+    "nota": "Infografía narrativa. Interpretaciones simbólicas y reconstrucciones históricas aproximadas; texto generado en la imagen pendiente de revisión editorial."
   },
   {
     "estudio": 2,
