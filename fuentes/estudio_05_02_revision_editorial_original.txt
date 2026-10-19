@@ -1,0 +1,209 @@
+¡Excelente! 😄 Vamos a dejar el Estudio 5 de Marcos 12 bien revisado antes de crear las imágenes.
+
+Revisé las 20 páginas que redactamos sobre «El Mesías, hijo de David y Señor de David» (Marcos 12:35–37), teniendo en cuenta el texto bíblico, su contexto histórico, la interpretación del Salmo 110 y las aplicaciones pastorales.
+
+El resultado es muy bueno: no necesitamos recortar ni reorganizar el estudio. Sí encontré algunas precisiones importantes que harán que BVI sea más rigurosa.
+
+## 1. Resultado general
+
+Estudio 5 — Revisión editorial completada
+
+# 6
+
+Contexto
+
+# 8
+
+Exégesis
+
+# 6
+
+Aplicación
+
+Las 20 páginas se conservan completas. La revisión introduce correcciones y aclaraciones puntuales.
+
+## 2. Correcciones bíblicas e históricas
+
+### Corrección 1. Jesús no está negando que el Mesías sea hijo de David
+
+Este es probablemente el punto más importante del estudio.
+
+En Marcos 12:35, Jesús pregunta cómo pueden los escribas decir que el Mesías es hijo de David.
+
+Una lectura superficial podría interpretar que Jesús está rechazando ese título.
+
+Pero Marcos ya había presentado a Bartimeo llamando a Jesús «Hijo de David» (Marcos 10:47–48), y la entrada en Jerusalén incluye una referencia al reino venidero de David (Marcos 11:10).
+
+La redacción original está bien encaminada, pero conviene hacer más explícita la diferencia entre lo que el texto afirma y nuestra interpretación.
+
+Redacción revisada para Exégesis, página 2:
+
+> Jesús no formula aquí una negación explícita de la esperanza davídica. Su pregunta pone en tensión la identificación del Mesías como hijo de David con el hecho de que David, según la interpretación del salmo presentada en Marcos, lo llame «Señor». Una interpretación cristiana ampliamente sostenida entiende que Jesús no rechaza el título davídico, sino que cuestiona su suficiencia para expresar la identidad del Mesías.
+
+Esta formulación evita presentar una conclusión interpretativa como si estuviera expresada literalmente en el versículo.
+
+### Corrección 2. Las expectativas mesiánicas no eran uniformes
+
+En Contexto, página 2, explicamos que existían diferentes expectativas mesiánicas en el judaísmo del período del Segundo Templo.
+
+Esto es correcto y debemos conservarlo.
+
+Sin embargo, agregaría una aclaración:
+
+> No todas las corrientes judías esperaban necesariamente una misma figura mesiánica ni atribuían idénticas funciones al futuro agente de la salvación divina. Por eso, la pregunta de Jesús debe situarse dentro de un panorama religioso diverso, sin atribuir a todos los judíos una expectativa política o militar uniforme.
+
+Esto también nos ayuda a evitar caricaturas históricas del judaísmo del siglo I.
+
+### Corrección 3. La promesa a David y su interpretación posterior
+
+La explicación de 2 Samuel 7 es adecuada, pero necesitamos distinguir mejor sus niveles históricos.
+
+El pasaje se relaciona inicialmente con la continuidad de la dinastía davídica y con el sucesor de David.
+
+Su relación con la esperanza de un Mesías futuro pertenece al desarrollo posterior de la interpretación bíblica.
+
+Redacción revisada para Contexto, página 3:
+
+> La promesa de 2 Samuel 7 se refiere, en su contexto inmediato, a la continuidad de la casa real de David. Con el paso del tiempo, especialmente ante las crisis de la monarquía, estas promesas fueron releídas dentro de las esperanzas de restauración. La interpretación cristiana las relaciona con Jesucristo, sin que debamos eliminar su significado histórico inicial.
+
+### Corrección 4. La autoría del Salmo 110
+
+En Marcos 12:36, Jesús introduce el salmo diciendo que David habló por el Espíritu Santo.
+
+Debemos conservar esa afirmación porque pertenece al texto del evangelio.
+
+Pero es importante distinguirla de la investigación moderna sobre la composición del salmo.
+
+El encabezamiento hebreo leDavid puede interpretarse tradicionalmente como una atribución a David, aunque su alcance lingüístico e histórico es objeto de discusión.
+
+Por eso, la revisión propone mantener dos planos claramente diferenciados:
+
+- En Marcos: Jesús utiliza la atribución davídica del salmo como parte de su argumento.
+- En la investigación histórica: la autoría humana y el contexto preciso de composición del Salmo 110 no están establecidos con certeza.
+
+No necesitamos resolver definitivamente esa discusión para comprender la lógica del episodio.
+
+### Corrección 5. «El SEÑOR dijo a mi señor»
+
+Esta es la precisión más importante para el recurso educativo.
+
+En el texto hebreo de Salmo 110:1 aparecen dos expresiones distintas:
+
+PRIMERA EXPRESIÓN
+
+# יְהוָה
+
+YHWH
+
+El nombre divino. Es quien habla.
+
+SEGUNDA EXPRESIÓN
+
+# לַאדֹנִי
+
+La'adoní
+
+«A mi señor». La figura a quien se dirige la declaración.
+
+En el Salmo 110:1, el hebreo distingue el nombre divino de la expresión «mi señor».
+
+En nuestra primera redacción escribimos adoní, que es correcto como forma básica, pero la'adoní representa mejor la expresión tal como aparece dentro del versículo, con la preposición «a».
+
+También debemos evitar sugerir que la palabra hebrea adoní demuestra por sí sola una afirmación completa sobre la naturaleza divina del Mesías.
+
+El argumento de Marcos se construye sobre la relación entre David, el Mesías y la autoridad reconocida a esa figura.
+
+La confesión cristiana más amplia acerca de la divinidad de Cristo debe fundamentarse considerando el conjunto del testimonio del Nuevo Testamento.
+
+### Corrección 6. «Siéntate a mi derecha»
+
+La explicación original es correcta: la derecha expresa honor y autoridad.
+
+Pero conviene agregar una distinción.
+
+En el contexto del salmo, la imagen puede relacionarse con la exaltación de una figura real.
+
+En la interpretación cristiana del Nuevo Testamento, se aplica a la exaltación de Jesucristo.
+
+No debemos representar visualmente esta expresión como una fotografía literal del cielo.
+
+Esto afecta directamente al recurso que vamos a crear.
+
+La solución más rigurosa será representar el salmo como texto antiguo y explicar sus relaciones mediante un diseño educativo, en lugar de inventar un trono celestial con Dios representado como un anciano.
+
+## 3. Revisión exegética: ¿qué podemos afirmar con seguridad?
+
+| Afirmación                                                                                  | Evaluación                                                                     |
+| ------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ |
+| Jesús enseña en el templo.                                                                  | Explícita en Marcos 12:35.                                                     |
+| Jesús cita el Salmo 110 atribuyéndolo a David y al Espíritu Santo.                          | Explícita en Marcos 12:36.                                                     |
+| David llama «Señor» a la figura mencionada.                                                 | Explícita dentro del argumento de Jesús.                                       |
+| Jesús cuestiona que la descendencia davídica explique por completo la identidad del Mesías. | Interpretación razonable, no explicación desarrollada literalmente por Marcos. |
+| El pasaje demuestra por sí solo toda la doctrina de la Trinidad.                            | No. Esa formulación excede el argumento inmediato.                             |
+| La multitud escucha con agrado.                                                             | Explícita en Marcos 12:37.                                                     |
+| Todos los oyentes comprendieron y aceptaron la identidad de Jesús.                          | No afirmado por Marcos.                                                        |
+
+Esta distinción entre texto explícito e interpretación teológica será especialmente útil para la identidad editorial de BVI.
+
+## 4. Revisión pastoral
+
+Las seis páginas de Aplicación están bien orientadas. Conservaremos íntegramente sus reflexiones y preguntas.
+
+Solo haría dos ajustes.
+
+Primero: en la página 3, donde hablamos de la autoridad de Jesús, reforzaremos que su señorío no debe utilizarse para justificar el autoritarismo religioso. La conexión con Marcos 10:42–45 es pertinente: Jesús enseña que la grandeza entre sus seguidores se expresa mediante el servicio.
+
+Segundo: en la página 2, donde hablamos de las expectativas que tenemos acerca de Dios, aclararemos que revisar nuestras expectativas no significa aceptar afirmaciones religiosas sin examinarlas. La fe puede convivir con el estudio cuidadoso, las preguntas sinceras y el discernimiento.
+
+La oración final no necesita modificaciones importantes.
+
+## 5. Revisión de los recursos visuales
+
+También revisé nuestra propuesta para las dos imágenes.
+
+Portada narrativa — Jesús enseña en el templo
+
+Decisión: aprobada para producción.
+
+Mostraremos a Jesús enseñando a un grupo de oyentes en un espacio del recinto del templo de Jerusalén del siglo I.
+
+La escena será panorámica, con vestimenta y arquitectura históricamente plausibles, sin texto incrustado.
+
+No representaremos a los oyentes como una multitud necesariamente hostil, porque Marcos señala que escuchaban a Jesús con agrado.
+
+BVI-MC12-VIS-005 — El Salmo 110: ¿quién llama Señor a quién?
+
+Decisión: aprobado con una mejora.
+
+En lugar de una escena celestial especulativa, haremos una composición panorámica con un rollo antiguo y un contexto de lectura de las Escrituras.
+
+La imagen aportará la ambientación histórica; el texto del salmo y el esquema de relaciones se presentarán debajo, con letras legibles y corregibles.
+
+Así distinguiremos claramente entre el nombre divino, la figura llamada «mi señor» y David como voz a la que Marcos atribuye el salmo.
+
+## 6. Estado final del Estudio 5
+
+Contexto: 6 páginas revisadas
+
+Exégesis: 8 páginas revisadas
+
+Aplicación: 6 páginas revisadas
+
+Correcciones editoriales definidas
+
+Portada y recurso visual pendientes de crear
+
+Dictamen: el Estudio 5 queda aprobado en su revisión editorial interna, con las precisiones indicadas para incorporar en la versión final. No hemos realizado una verificación académica externa independiente.
+
+Y, como acordamos, ninguna de las 20 páginas será resumida al integrar el ZIP.
+
+### Próximo paso
+
+Ahora corresponde crear las dos imágenes del Estudio 5, preferentemente por separado para conservar la máxima calidad:
+
+1. La portada de Jesús enseñando sobre el Mesías.
+2. El recurso educativo del Salmo 110.
+
+Después avanzamos al Estudio 6, el último de Marcos 12, que incluirá la advertencia sobre ciertos escribas y la ofrenda de la viuda.
+
+¡Ya estamos muy cerca de completar la segunda prueba de fuego de BVI! 😄

@@ -1,0 +1,86 @@
+[
+  {
+    "estudio": 1,
+    "tipo": "portada",
+    "archivo": "assets/e01_portada.webp",
+    "versiculos": "12:1–12",
+    "nota": "Reconstrucción narrativa aproximada"
+  },
+  {
+    "estudio": 1,
+    "tipo": "educativo",
+    "archivo": "assets/e01_educativo.webp",
+    "versiculos": "12:1–12",
+    "nota": "Reconstrucción educativa de una viña"
+  },
+  {
+    "estudio": 2,
+    "tipo": "portada",
+    "archivo": "assets/e02_portada.webp",
+    "versiculos": "12:13–17",
+    "nota": "Reconstrucción narrativa aproximada"
+  },
+  {
+    "estudio": 2,
+    "tipo": "educativo",
+    "archivo": "assets/e02_educativo.webp",
+    "versiculos": "12:15–17",
+    "nota": "Ilustración generada; no es moneda arqueológica auténtica"
+  },
+  {
+    "estudio": 3,
+    "tipo": "portada",
+    "archivo": "assets/e03_portada.webp",
+    "versiculos": "12:18–27",
+    "nota": "Reconstrucción narrativa aproximada"
+  },
+  {
+    "estudio": 4,
+    "tipo": "portada",
+    "archivo": "assets/e04_portada.webp",
+    "versiculos": "12:28–34",
+    "nota": "Escena ilustrativa genérica; requiere portada específica"
+  },
+  {
+    "estudio": 4,
+    "tipo": "educativo",
+    "archivo": "assets/e04_educativo.webp",
+    "versiculos": "12:29–31",
+    "nota": "Representación conceptual del amor a Dios y al prójimo"
+  },
+  {
+    "estudio": 5,
+    "tipo": "portada",
+    "archivo": "assets/e05_portada.webp",
+    "versiculos": "12:35–37",
+    "nota": "Reconstrucción narrativa aproximada"
+  },
+  {
+    "estudio": 5,
+    "tipo": "educativo",
+    "archivo": "assets/e05_educativo.webp",
+    "versiculos": "12:36–37",
+    "nota": "Los caracteres del rollo no son una transcripción bíblica"
+  },
+  {
+    "estudio": 6,
+    "tipo": "portada",
+    "archivo": "assets/e06_portada.webp",
+    "versiculos": "12:38–40",
+    "nota": "Reconstrucción narrativa aproximada"
+  },
+  {
+    "estudio": 6,
+    "tipo": "portada",
+    "archivo": "assets/e06_portada.webp",
+    "versiculos": "12:41–44",
+    "nota": "Reconstrucción narrativa aproximada"
+  },
+  {
+    "estudio": 6,
+    "tipo": "educativo",
+    "archivo": "assets/e06_educativo.webp",
+    "versiculos": "12:42–44",
+    "nota": "Monedas plausibles; identificación exacta no establecida"
+  }
+]
